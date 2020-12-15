@@ -2510,7 +2510,7 @@ function closingCode()
             <div class="rightside">
                 <div class="myflex">
                     <div>
-                        <input type="checkbox" id="catonoff" onclick="CATonoff()">Hack RF
+                        <input type="checkbox" id="catonoff" onclick="CATonoff()">Icom CAT
                         
                     </div>
                     <div>
